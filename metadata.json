@@ -1,0 +1,8 @@
+{
+  "name": "Remix: LEAP - Ferrieres",
+  "description": "Trang thông tin dịch vụ và đăng ký xét tuyển độc quyền học viện Ferrières Hospitality \u0026 Luxury Management bởi LEAP Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
